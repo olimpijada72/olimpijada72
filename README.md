@@ -1,6 +1,6 @@
 ## Good day person of the World! 👋
 
-- 🔭 I’m currently working on wild fire detection
+- 🔭 I’m currently working on protein design
 - 👯 I’m looking to collaborate on fun data sci projects
 - 📫 How to reach me: olimpijada72@gmail.com
 - ⚡ Fun fact: sharks (420 million years) are older than both trees (370 million years) and the Polaris, the north star (90 million years)
